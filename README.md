@@ -1,5 +1,5 @@
 # Hey there! 👋
-
+![Learning](https://img.shields.io/badge/Learning-Python%20%26%20Linux-blue?style=for-the-badge&logo=linux)
 I'm **[Cwitas]**, a student stepping into the tech world.
 
 I don't have a profession right now, but I enjoy learning something new every day and tinkering with systems.
