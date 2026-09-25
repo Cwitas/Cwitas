@@ -6,13 +6,13 @@ I don't have a profession right now, but I enjoy learning something new every da
 
 ### 🚀 What I Do?
 
-- 🐧 **Linux World:** I'm exploring the terminal and system settings on Fedora OS.
+- 🐧 **Linux World:** I'm exploring the terminal and system settings on Cachy OS.
 - 💻 **Learning Process:** I'm trying to understand the basics of coding and taking my first steps on GitHub.
 - 📚 **Future Goal:** [Improving myself in software development or pursuing Cybersecurity; I haven't decided yet].
 
 ### 🛠️ What I'm Exploring Right Now?
 
-- **OS:** Fedora (I love tinkering with Hyprland and Gnome)
+- **OS:** CachyOS (I love tinkering with Hyprland and Gnome)
 - **Tools:** Terminal, Git, VS Code,Google Antigravity
 - **Learning:** Basic coding logic and Linux commands
 
