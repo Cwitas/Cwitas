@@ -12,7 +12,7 @@ I don't have a profession right now, but I enjoy learning something new every da
 
 ### 🛠️ What I'm Exploring Right Now?
 
-- **OS:** CachyOS (I love tinkering with Hyprland and Gnome)
+- **OS:** CachyOS (I love tinkering with KDE Plasma)
 - **Tools:** Terminal, Git, VS Code,Google Antigravity
 - **Learning:** Basic coding logic and Linux commands
 
