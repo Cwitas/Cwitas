@@ -18,7 +18,7 @@ I don't have a profession right now, but I enjoy learning something new every da
 
 ### 💡 Fun Facts:
 
-- 🎮 I enjoy playing **[Genshin Impact]** in my free time.
+- 🎮 I enjoy playing **[Genshin Impact and Roblox]** in my free time.
 - 🔧 I love breaking things and then researching how to fix them.
 - 🎓 I'm currently actively preparing for university exams / continuing my education.
 
